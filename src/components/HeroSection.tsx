@@ -122,15 +122,13 @@ export default function HeroSection() {
           <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
             <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-              🚀 Passionate software engineer with a versatile skill set
-              spanning multiple domains. I thrive on solving complex challenges
-              across different platforms and environments, adapting quickly to
-              new technologies and methodologies. My holistic approach combines
-              technical expertise with creative problem-solving, allowing me to
-              develop solutions that are both innovative and practical. I'm
-              driven by continuous learning and a commitment to excellence,
-              whether working independently or collaborating with diverse teams
-              to create impactful, scalable solutions.
+              🚀 I specialize in taking the friction out of business processes in ways that feel like magic to your users. Whether you're a company without a website, drowning in manual workflows, or frustrated with clunky interfaces, I love diving in from scratch to uncover what you really need and build solutions that just work.
+              <br /><br />
+              My approach is hands-on and people-first - I solve problems by getting my hands dirty with code while keeping real users at the center of every decision. With experience architecting everything from financial software to customer portals, I bring enterprise-level expertise to businesses of any size.
+              <br /><br />
+              When I'm not crafting seamless user experiences, you'll find me at Bear Creek with my dog Kona and fiancée, explaining board game rules to friends (I'm that guy), or unwinding with some Mario Kart. I'm mediocre at pickleball but love playing anyway - Colorado's outdoor scene keeps me balanced and creative.
+              <br /><br />
+              Ready to turn your business friction into flowing experiences? Let's build something amazing together.
             </p>
           </div>
         </MotionWrapper>
