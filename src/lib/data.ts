@@ -13,7 +13,7 @@ export const workExperience = [
     position: "Director of Software",
     period: "2023 - Present",
     achievements: [
-      "Rapidly promoted from Software Engineer to Director within one year, demonstrating exceptional leadership and technical growth",
+      "Rapidly promoted from Software Engineer to Director within two years, demonstrating exceptional leadership and technical growth",
       "Lead a team of 8 engineers, directly managing 4 software engineers",
       "Architect enterprise-grade financial software including client portal, internal applications, and AWS-hosted APIs",
       "Spearheaded implementation of ACH and recurring payment systems",

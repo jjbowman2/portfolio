@@ -18,7 +18,8 @@ export default function GlassHeader() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          ✨ {personalInfo.name}
+          <img src="/favicon.png" alt="Logo" className="rounded w-6 h-6 mr-2" />
+          {personalInfo.name}
         </motion.a>
 
         {/* Desktop Navigation */}
